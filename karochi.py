@@ -45,3 +45,24 @@
 # for i in kampyuter:
 #     if int(i.rami) >= 4 and int(i.rami) <= 16:
 #         i.chiqarish()
+
+#                   3-masala
+# class Web:
+        
+#     def kiritish(self):
+#         self.login = input("Login: ")
+#         self.user_name = input("Ismi: ")
+#         self.email = input("Email: ")
+        
+        
+#     def get_info(self):
+#         print(F"Foydalanuvchi: {self.login}, ismi: {self.user_name}, email: {self.email}")
+        
+# data = []
+
+# for i in range(1):
+#     k = Web()
+#     k.kiritish()
+#     data.append(k)
+    
+# k.get_info()
